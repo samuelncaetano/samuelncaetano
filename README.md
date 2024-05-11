@@ -6,7 +6,6 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    gap: 4px;
   "
 >
   <img
