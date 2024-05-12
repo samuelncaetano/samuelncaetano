@@ -17,7 +17,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelncaetano&theme=dark&layout=compact"
   />
   <img
-    height="180em"
+    height=100%
     src="https://github-readme-stats.vercel.app/api/wakatime?username=@samuelncaetano&theme=dark"
   />
 </div>
