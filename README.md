@@ -14,7 +14,7 @@
   />
   <img
     height="200em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelncaetano&layout=donut&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelncaetano&layout=compact&theme=dark"
   />
   <img
     height="200em"
