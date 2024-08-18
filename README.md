@@ -14,10 +14,10 @@
   />
   <img
     height="200em"
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=@samuelncaetano&layout=compact&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelncaetano&layout=donut&theme=dark"
   />
   <img
-    height="250em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelncaetano&layout=donut&theme=dark"
+    height="200em"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=@samuelncaetano&layout=compact&theme=dark"
   />
 </div>
