@@ -9,11 +9,11 @@
   "
 >
   <img
-    height="200em"
+    height="180em"
     src="https://github-readme-stats.vercel.app/api?username=samuelncaetano&show_icons=true&theme=dark"
   />
   <img
-    height="200em"
+    height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelncaetano&layout=compact&theme=dark"
   />
   <img
